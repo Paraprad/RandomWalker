@@ -31,4 +31,5 @@ plt.title("Random Walk ($n = " + str(n) + "$ steps)")
 plt.plot(x1, y1)
 plt.show()
   
+print("Hi")
   
